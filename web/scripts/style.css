@@ -1,0 +1,145 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color: #565656;
+}
+
+.subnav{
+background-color:#7ba758;
+color: #FFFFFF;
+font-size:12px;
+font-weight:bold;
+padding-left:70px;
+}
+
+/*====*/
+.Heading{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #6d7100;
+	text-align:left;
+	font-weight:bold;
+}
+
+.tbltitle_header {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	background-color:#7c471d;
+	text-align:left;
+	font-weight:bold;
+	text-decoration:none;
+}
+.tblrow1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color: #565656;
+	background-color:#eeeeee;
+	text-align:left;
+}
+.tblrow2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color: #565656;
+	text-align:left;
+}
+
+a.nav{
+text-decoration:none;
+border-style:none;
+color:#FFFFFF;
+}
+
+img{
+border-style:none;
+}
+
+input.formbutton {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:8pt;
+	border: 1px solid #999;
+	color: #fff;
+	background: #7c471d;
+}
+input.formbutton:hover {
+	color: #fff;
+	background: #7c471d;
+}
+
+input.formbutton:active {
+	color: #fff;
+	background: #7c471d;
+}
+
+table.tableadd{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #565656;
+	background-color:#eeeeee;
+
+}
+
+/*textbox*/
+
+input.text, input.button, input.range, input.medium{
+	border: 1px solid #999;
+	background: #fff;
+	
+}
+
+input.text:focus {
+	background: #ddf5ff;
+}
+
+input.text {
+	width:250px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:8pt;
+}
+
+input.text1 {
+	width:150px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:8pt;
+}
+
+select {
+	width:200px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:8pt;
+}
+
+a.viewing
+{
+text-decoration:none;
+font-size:11px;
+text-align:right;
+}
+
+a.clientview
+{
+text-decoration:none;
+font-size:14px;
+text-align:right;
+}
+.menusectionstyle {
+	position: absolute;
+	color: black;
+	background-color: #44602f; 
+	visibility: hidden;
+	border-spacing: 1px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+} 
+.menusectionitem { 
+	color: white; 
+	font-size: 12px;
+	font-family:Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	font-weight:bold; 
+} 
+.menusectionitem:hover { 
+	text-decoration: underline; 
+	color: #FFFFFF; 
+	font-weight: bold;
+	font-family:Arial, Helvetica, sans-serif;
+}
