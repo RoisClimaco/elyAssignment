@@ -34,7 +34,7 @@ $objDbConn  -> voidConnect();
 $objSession = new Session();
 $arrSessionLoginVars = array('intAdminUserId', 'strUsername', 'strFirstName', 'strLastName', 'intUserLevel');
 //print $_SERVER['PHP_SELF'];
-if ($_SERVER['PHP_SELF'] == '/soft806/web/login/index.php')
+if ($_SERVER['PHP_SELF'] == '/gocdely/web/login/index.php')
 {
 	if ($objSession -> blnIsVariableSet($arrSessionLoginVars))
 	{
